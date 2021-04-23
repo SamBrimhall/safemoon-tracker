@@ -11,7 +11,7 @@ This project does not work out of the box. If you wish to use it to track your o
 
 1: You must set up your own bscscan API key to access bscscan data. Create an account on bscscan found here: https://bscscan.com/apis
 
-2: Once your account is set up, generate an API key and copy it. Open the source code in your editor of choice (Notepad is ok) and insert the key in the designated variable as outlined by the comments.
+2: Once your account is set up, generate an API key and copy it. Open the source code in your editor of choice (Notepad is ok) and insert the key in the designated variable as outlined by the comments. You can generate your API key here: https://bscscan.com/myapikey
 
 3: The other thing you need is your public Safemoon wallet address. You can find this on Trustwallet and Metamask easily, by navigating to the 'receive' page on your wallet and copying your address. Paste it in the designated variable within the source code.
 
